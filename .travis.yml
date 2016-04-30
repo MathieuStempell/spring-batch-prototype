@@ -1,2 +1,4 @@
+# configuration for https://travis-ci.org/MathieuStempell/spring-batch-prototype
+sudo: false
 language: java
 jdk: openjdk6
